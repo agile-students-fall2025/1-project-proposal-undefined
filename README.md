@@ -2,6 +2,7 @@
 A full stack web app for stock picking
 
 [Lauren Thorve](https://github.com/laurenst17)
+
 [Apoorv Belgundi](https://github.com/apoorvib)
 
 ## What and Why?
