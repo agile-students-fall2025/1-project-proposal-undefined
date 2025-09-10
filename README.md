@@ -1,4 +1,7 @@
-# What and Why?
+# TickerPickr
+A full stack web app for stock picking
+
+## What and Why?
 
 We plan to build a stock picker application that helps beginner investors evaluate companies without needing advanced financial knowledge. Users can login to the app and through our system filter publicly traded stocks by industry and and interact with an adjustable sliding scales for quantitative metrics (such as P/E ratio, EPS growth, debt-to-equity, etc).
 
@@ -7,12 +10,12 @@ This gives users a straightforward way to explore how different financial factor
 
 As an optional feature, we may include a chatbot that explains in plain English what each metric measures, what is an ideal range, whether a higher/lower number for that metric is better, etc. This will enhance user understanding but is not required for the system to work.
 
-# For Whom?
+## For Whom?
 
 The application is designed for beginner investors who are interested in building wealth but don't know where to start! 
 
 
-# How?
+## How?
 
 From a user’s perspective:
 
@@ -34,7 +37,7 @@ Users are notified (by email) and in there notifications (under profile) a week 
 
 
 
-# Scope
+## Scope
 
 This project is appropriately scoped for a team of 3-4 developers:
 The team will need to:
