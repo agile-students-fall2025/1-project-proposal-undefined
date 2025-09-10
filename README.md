@@ -1,6 +1,9 @@
 # TickerPickr
 A full stack web app for stock picking
 
+[Lauren Thorve](https://github.com/laurenst17)
+[Apoorv Belgundi](https://github.com/apoorvib)
+
 ## What and Why?
 
 We plan to build a stock picker application that helps beginner investors evaluate companies without needing advanced financial knowledge. Users can login to the app and through our system filter publicly traded stocks by industry and and interact with an adjustable sliding scales for quantitative metrics (such as P/E ratio, EPS growth, debt-to-equity, etc).
