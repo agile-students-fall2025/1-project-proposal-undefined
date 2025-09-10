@@ -31,7 +31,7 @@ Clicking a stock brings up details, including a chart of recent performance and 
 
 Users can save filters for reuse and add stocks to a personal watchlist.
 
-Users are notified (by email) and in there notifications (under profile) a week before, and the day of there saved stock has an earnings call.
+(Optional) Users are notified (by email) and in there notifications (under profile) a week before, and the day of there saved stock has an earnings call.
 
 (Optional) Users can chat with a bot to ask, “What does EPS mean?” or "Is a higher PE ratio better" and receive clear, beginner-friendly explanations.
 
@@ -42,16 +42,16 @@ Users are notified (by email) and in there notifications (under profile) a week 
 This project is appropriately scoped for a team of 3-4 developers:
 The team will need to:
 
-- Design and build a PostgreSQL database to store user accounts, stock fundamentals, saved screens, and watchlists.
+- Design and build a database to store user accounts, stock fundamentals, saved filters, saved stocks.
 
-- Develop a backend API to fetch fundamentals, run stock queries, and handle authentication.
+- Develop a backend API to fetch fundamentals, run stock queries
 
-- Implement filtering logic so users can narrow stocks by industry and adjust sliders for quantitative metrics (P/E, EPS growth, debt-to-equity, etc.).
+- Implement filtering logic so users can narrow stocks by industry and adjust sliders for quantitative metrics 
 
-- Create an interactive front end UI for login, filters, stock results, watchlists, and saved screens.
+- Create an interactive front end UI 
 
 - Integrate an external data source to populate stock data.
 
-- Set up an email notification system so users can receive alerts when a stock on their watchlist has an earnings call.
+- The optional email notification system so users can receive alerts when a stock on their watchlist has an earnings call.
 
 - The optional chatbot—designed to explain financial metrics in plain English—will be implemented only if time permits.
