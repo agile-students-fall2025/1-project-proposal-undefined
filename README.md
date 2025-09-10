@@ -1,6 +1,6 @@
 # What and Why?
 
-We plan to build a stock picker application that helps beginner investors evaluate companies without needing advanced financial knowledge. Providing a clear interface, users can login to the app and through our system filter publicly traded stocks by industry and and interact with an adjustable sliding scales for quantitative metrics (such as P/E ratio, EPS growth, or debt-to-equity).
+We plan to build a stock picker application that helps beginner investors evaluate companies without needing advanced financial knowledge. Users can login to the app and through our system filter publicly traded stocks by industry and and interact with an adjustable sliding scales for quantitative metrics (such as P/E ratio, EPS growth, or debt-to-equity).
 
 This gives users a straightforward way to explore how different financial factors affect stock choices. It also makes investing more approachable and educational for people who want to learn the basics of fundamental analysis.
 
@@ -9,18 +9,18 @@ As an optional feature, we may include a chatbot that explains in plain English 
 
 # For Whom?
 
-The application is designed for beginning investors who are interested in building wealth but don't know where to start! 
+The application is designed for beginner investors who are interested in building wealth but don't know where to start! 
 
 
 # How?
 
 From a user’s perspective:
 
-They log into the app and see a list of companies (e.g., S&P 500).
+They log into the app and see a list of companies 
 
 They select an industry (such as tech, healthcare, or energy) to narrow the list.
 
-They adjust sliders for metrics like P/E ratio, EPS growth, or debt-to-equity to define their desired ranges.
+They adjust sliders for metrics like P/E ratio, EPS growth, debt-to-equity, etc to define their desired ranges.
 
 The system filters the stock list and displays results that meet the criteria.
 
@@ -28,7 +28,11 @@ Clicking a stock brings up details, including a chart of recent performance and 
 
 Users can save filters for reuse and add stocks to a personal watchlist.
 
+Users are notified (by email) and in there notifications (under profile) a week before, and the day of there saved stock has an earnings call.
+
 (Optional) Users can chat with a bot to ask, “What does EPS mean?” or “Why does debt-to-equity matter?” "Is a higher PE ratio better" and receive clear, beginner-friendly explanations.
+
+
 
 # Scope
 
@@ -44,5 +48,7 @@ The team will need to:
 - Create an interactive front end UI for login, filters, stock results, watchlists, and saved screens.
 
 - Integrate an external data source to populate stock data.
+
+- Set up an email notification system so users can receive alerts when a stock on their watchlist has an earnings call.
 
 - The optional chatbot—designed to explain financial metrics in plain English—will be implemented only if time permits.
