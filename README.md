@@ -5,6 +5,8 @@ A full stack web app for stock picking
 
 [Apoorv Belgundi](https://github.com/apoorvib)
 
+[Varun Pandian](https://github.com/V-run64)
+
 ## What and Why?
 
 We plan to build a stock picker application that helps beginner investors evaluate companies without needing advanced financial knowledge. Users can login to the app and through our system filter publicly traded stocks by industry and and interact with an adjustable sliding scales for quantitative metrics (such as P/E ratio, EPS growth, debt-to-equity, etc).
